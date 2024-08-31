@@ -1,0 +1,6 @@
+UTN-FRA-Arq-SO/
+UTN-FRA_SO_Vagrant/
+UTN-FRA_SO_onBording/
+archivo1.txt
+script1.sh*
+vmvagrant_repo/
