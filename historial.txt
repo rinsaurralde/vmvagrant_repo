@@ -1,0 +1,19 @@
+    1  man dmesg
+    2  apropos claear
+    3  apropos clear
+    4  man dmesg
+    5  dmesg
+    6  sudo dmesg
+    7  cat /var/log/messages
+    8  ls /var/log/
+    9  cls
+   10  clear
+   11  ssh-keygen -t ed25519
+   12  ls -l .ssh/
+   13  sudo systemctl status sshd
+   14  cat .ssh/id_ed25519.pub
+   15  git clone git@github.com:rinsaurralde/vmvagrant_repo.git
+   16  ls
+   17  cd vmvagrant_repo
+   18  ls
+   19  history > historial.txt
