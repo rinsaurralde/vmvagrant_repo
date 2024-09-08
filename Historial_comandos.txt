@@ -1,0 +1,199 @@
+man dmesg
+apropos claear
+apropos clear
+man dmesg
+dmesg
+sudo dmesg
+cat /var/log/messages
+ls /var/log/
+cls
+clear
+ssh-keygen -t ed25519
+ls -l .ssh/
+sudo systemctl status sshd
+cat .ssh/id_ed25519.pub
+git clone git@github.com:rinsaurralde/vmvagrant_repo.git
+ls
+cd vmvagrant_repo
+ls
+history > historial.txt
+ls
+git status
+git add .
+git status
+git commit -m "commit clase2"
+git config --global user.email "r.insaurralde@sistemas-utnfra.com.ar"
+git config --global user.name "rinsaurralde"
+git commit -m "commit clase2"
+git push
+exit
+echo
+echo  $home
+echo  $HOME
+ls
+cd..
+ls
+cd ..
+echo  $HOME
+cd vagrant
+ls
+ls -l
+pwd
+whoami
+cd carpeta_compartida/
+ls
+history > historial.txt
+ls
+rm historial.txt
+ls
+cd -
+pwd
+ls
+cd repogit
+ls
+pwd
+whiami
+whoami
+[200~
+~hostnamectl set-hostname PC-Rosalia
+localectl set-keymap us
+localectl set-keymap latam
+ls $HOME/.bash_history
+home
+echo $HOME
+ls -la
+ls
+cd ..
+ls
+ls -la
+cd .ssh
+ls -la
+ls -l
+cat authorized_keys 
+cd ..
+cat /var/log/messages
+sudo cat /var/log/messages
+cat /etc/passwd
+cat /etc/shadow
+sudom cat /etc/shadow
+ver
+sudo cat /etc/shadow
+cat /var/logs/message  
+ls /var/logs/message
+ls /var/logs/
+sudo ls /var/logs/
+sudo ls /var/
+sudo ls /var/log/
+sudo ls /var/log/dmesg
+sudo cat /var/log/dmesg
+sudo cat /var/log
+sudo cat /var/log/
+sudo ls /var/log/
+cat /etc/logrotate
+ls /etc/
+cat /etc/logrotate.conf
+ls /var/
+ls /var/log/
+ls /var/log/dmesg
+cat /var/log/dmesg
+sudo cat /var/log/dmesg
+cat /etc/logrotate.conf
+cat /etc/shadow
+sudo cat /etc/shadow
+exit
+ls
+ls -l
+ls -la
+man ls
+man man
+pdw
+pwd
+whoami
+echo "hola"
+echo $HOME
+ls
+cat README 
+cd repogit
+EXIT
+exit
+ls
+whoami
+pwd
+echo "hola"
+echo $HOME
+man echo
+man ls
+man man
+cd repogit
+ls
+cd vmvagrant_repo
+ls
+history
+history > historial.txt
+ls
+cat historial.txt
+ls
+exit
+ls
+cd repogit
+cd vmvagrant_repo/
+ls
+git status
+git commit -m "Agrega lista ordenada"
+git status
+man man
+apropos "dump traffic"
+apropos "dump traffic" | grep tcpdump
+apropos "dump traffic" | grep -E '[A-Za-z][ ]
+apropos "dump traffic" | grep -E '[A-Za-z][ ]'
+apropos "dump traffic" > comando_dump_net
+history
+echo apropos "dump traffic"
+history
+echo apropos "dump traffic"
+echo apropos "dump traffic" >> comando_dump_net
+cat comando_dump_net 
+git status
+git add comando_dump_net 
+git commit -m “ADD: Comando para Capturar y analizar el tráfico de red ”
+git commit -m “Comando para Capturar y analizar el tráfico de red ”
+git commit -m “Agrega comando Capturar y analizar el tráfico de red ”
+git commit -m “Agrega comando Capturar y analizar el tráfico de red”
+git commit -m “Agrega comando Capturar/analizar tráfico de red”
+git status
+git commit -m “Agrega comando tráfico de red”
+git commit -m 'Agrega comando tráfico de red'
+cat << FIN
+Profesora:Insaurralde Rosalia
+Division:001
+Turno:MTN
+FIN
+
+ls
+cat << FIN >> alumno.txt
+l1
+l2
+l3
+FIN
+
+ls
+cat alumno.txt 
+rm alumno.txt 
+ls
+cat << FIN >> README.md
+Profesora: Rosalia Insaurralde
+Division: 001
+Turno: M_T_N
+FIN
+
+cat README.md 
+cat << FIN >> README.md 
+
+Profe: Rosalia
+FIN
+
+cat README.md 
+git status
+git add README.md 
+git commit -m 'agrega datos alumno en README.md'
+history -a $HOME/.bash_history
